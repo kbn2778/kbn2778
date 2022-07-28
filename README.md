@@ -20,5 +20,12 @@ Here are some ideas to get you started:
 성균관대학교 정보통신대학 전자전기공학부
 시스템컨설턴트그룹 22
 </div>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbn2778)](https://solved.ac/kbn2778)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<div>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbn2778)](https://solved.ac/kbn2778)
+</div>
+
+<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbn2778&show_icons=true&theme=tokyonight)
+</div>
+
