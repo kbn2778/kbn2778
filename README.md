@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🎓한국디지털미디어고등학교 14WP<br/>
 ✏️성균관대학교 정보통신대학 전자전기공학부<br/>
-💻시스템컨설턴트그룹 22기(<www.scg.skku.ac.kr">www.scg.skku.ac.kr>)
+💻시스템컨설턴트그룹 22기(www.scg.skku.ac.kr)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbn2778&layout=compact)](https://github.com/kbn2778/github-readme-stats)
