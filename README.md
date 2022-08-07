@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 2022
  - 여행 콘텐츠 제품 아이디어 공모전
- - 전전 Summercamp 수료[왕관모양원격촬영 프로젝트]
+ - 전전 Summercamp 수료[수면에서 발생하는 왕관모양 원격촬영 프로젝트]
  
  <h1>학업</h1>
  
