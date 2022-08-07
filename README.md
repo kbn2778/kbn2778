@@ -20,9 +20,31 @@ Here are some ideas to get you started:
 ✏️성균관대학교 정보통신대학 전자전기공학부<br/>
 💻시스템컨설턴트그룹 22기(www.scg.skku.ac.kr)
 
+<h1>경험</h1>
+
+2018
+ - 임베디드소프트웨어경진대회[사물인터넷 기반 화재감지 및 실내 대피 내비게이션 시스템]
+ - 한국통신학회 추계학술발표회[사물인터넷 기반 화재감지 및 실내 대피 내비게이션 시스템]
+ - 한국콘텐츠진흥원 우리동네캐릭터 1회 제작[프론트앤드]
+
+2019
+ - 서울 하드웨어 해커톤[주차장관리시스템]
+
+2021
+ - 한국콘텐츠진흥원 우리동네캐릭터 4회[프론트앤드]
+ - 국방 공공데이터활용 경진대회[병력체력관리서비스]
+ - 일루와마켓(www.illuwamkt.com) 제작 [프론트앤드]
+
+2022
+ - 여행 콘텐츠 제품 아이디어 공모전
+ - 전전 Summercamp 수료[왕관모양원격촬영 프로젝트]
+ 
+ <h1>학업</h1>
+ 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbn2778)](https://solved.ac/kbn2778)<br/>
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbn2778&layout=compact)](https://github.com/kbn2778/github-readme-stats)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbn2778)](https://solved.ac/kbn2778)<br/>
 
 
