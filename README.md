@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 2022
  - 여행 콘텐츠 제품 아이디어 공모전[사진촬영 지원 드론]
  - 전전 Summercamp 수료[수면에서 발생하는 왕관모양 원격촬영 프로젝트](C, RA6M3 Board, Optical Sensor)
- - 삼성전자DS부문 장기현장실습[솔루션개발팀]
+ - 삼성전자DS부문 장기현장실습[솔루션개발팀 시스템기술파트]
  
  <h1>학업</h1>
  
