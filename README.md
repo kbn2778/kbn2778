@@ -41,8 +41,7 @@ Here are some ideas to get you started:
  - 삼성전자DS부문 장기현장실습[솔루션개발팀 시스템기술파트](SMC[vendor specific cmd, NVMe-MI, MCTP, SMBus/I2C])
 
 2023
- - 종합설계프로젝트[컴퓨터비전을 활용한 자동차 고양이 퇴치기]
-   (Arduino Uno[nRF24L01+, OV2640 mini 2MP, ...], Raspberry pi 4[SSD(Single Shot Detector)], Android[Firebase Cloud Messaging, Storage, Realtime DB])
+ - 종합설계프로젝트[컴퓨터비전을 활용한 자동차 고양이 퇴치기](ArduinoUno, RaspberryPi4, Android)
 
  <h1>학업</h1>
  
