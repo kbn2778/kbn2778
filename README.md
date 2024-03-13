@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 2023
  - 종합설계프로젝트[컴퓨터비전을 활용한 자동차 고양이 퇴치기](ArduinoUno, RaspberryPi4, Android)
+ - 임베디드시스템설계[버스탑승알림기기](Raspberrypi pico)
 
  <h1>학업</h1>
  
